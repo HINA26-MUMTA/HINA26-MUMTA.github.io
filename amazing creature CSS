@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Colorful creature</title>
+        <style>
+           
+            body{
+                background:rgb(82, 10, 20);
+            }
+             P{
+                color:rgb(129, 143, 20);
+            }
+            h1{
+                color:rgb(207, 181, 54);
+            }
+        </style>
+        
+        
+        
+        
+    </head>
+    <body>
+        
+        <h1>The coolest creature</h1>
+        <img src="https://www.kasandbox.org/programming-images/creatures/Winston.png">
+        
+        <p>Theis awesome because
+        it is <em>yellow</em> in color and is very cute and<strong> it's shape is like a ball.</strong></p>
+        
+    </body>
+</html>
