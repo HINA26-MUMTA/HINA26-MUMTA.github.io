@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Links for learning</title>
+    </head>
+    <body>
+        
+        <h1>Links for learning</h1>
+        
+        
+        <ul>
+            <li><a href="https://www.khanacademy.org/computing/computer-programming/html-css/html-tags-continued/pc/challenge-links-you-love">CHALLENGE ON LINKS FOR LEARNING HTML</a></li>
+            
+            <li><a href="https://www.khanacademy.org/computing/computer-programming/html-css/html-tags-continued/pt/html-links" > html links</a></li>
+            <li><a href="https://www.khanacademy.org/computing/computer-programming/html-css/html-tags-continued/pt/html-internal-links"> Internal links</a> </li>
+    </ul>
+    <a href= "https://www.khanacademy.org/"> MY FAVOURITE EDUCATIONAL WEBDISE
+    <IMG src="https://www.google.com/search?q=khan+academy&safe=strict&rlz=1C1GCEB_enAU927AU927&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj0opD-i43tAhV2yzgGHRFYCJoQ_AUoAnoECCwQBA&biw=1920&bih=937#imgrc=pL-_xLqGyIlodM">
+
+        <img src="https://www.kasandbox.org/programming-images/cute/Heart.png">
+        </a>
+        
+    </body>
+</html>
